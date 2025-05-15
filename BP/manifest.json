@@ -5,7 +5,7 @@
     "description": "MinecraftBEで使用できる単色のブロックを追加します。",
     "version": [1, 0, 0],
     "uuid": "93ec06dc-055f-4585-8a92-ba24eaf3215f",
-    "min_engine_version": [1, 13, 0]
+    "min_engine_version": [1, 21, 60]
   },
   "modules": [
     {
