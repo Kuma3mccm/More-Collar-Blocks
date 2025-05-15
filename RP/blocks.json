@@ -3,5 +3,9 @@
   "mcb:000000": {
     "sound": "stone",
     "textures": "000000"
+  },
+  "mcb:000001": {
+    "sound": "stone",
+    "textures": "000001"
   }
 }

@@ -11,7 +11,8 @@
                             "name": "mcb:itemGroup.name"
                         },
                         "items": [
-                            "mcb:000000"
+                            "mcb:000000",
+                            "mcb:000001"
                         ]
                     }
                 ]
