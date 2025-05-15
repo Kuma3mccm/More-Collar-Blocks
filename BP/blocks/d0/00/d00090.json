@@ -1,0 +1,15 @@
+{
+  "format_version": "1.20.50",
+  "minecraft:block": {
+    "description": {
+      "identifier": "mcb:hex_d00090",
+      "menu_category": {
+        "category": "construction"
+      }
+    },
+    "components": {
+      "minecraft:display_name": "#d00090",
+      "minecraft:map_color": "#d00090"
+    }
+  }
+}

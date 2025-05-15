@@ -1,0 +1,15 @@
+{
+  "format_version": "1.20.50",
+  "minecraft:block": {
+    "description": {
+      "identifier": "mcb:hex_400000",
+      "menu_category": {
+        "category": "construction"
+      }
+    },
+    "components": {
+      "minecraft:display_name": "#400000",
+      "minecraft:map_color": "#400000"
+    }
+  }
+}
