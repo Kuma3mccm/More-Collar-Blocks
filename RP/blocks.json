@@ -1,0 +1,7 @@
+{
+  "format_version": [1, 19, 80],
+  "mcb:000000": {
+    "sound": "stone",
+    "textures": "000000"
+  }
+}

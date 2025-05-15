@@ -1,0 +1,21 @@
+{
+    "format_version": "1.21.60",
+    "minecraft:crafting_items_catalog": {
+        "categories": [
+            {
+                "category_name": "construction",
+                "groups": [
+                    {
+                        "group_identifier": {
+                            "icon": "mcb:000000",
+                            "name": "mcb:itemGroup.name"
+                        },
+                        "items": [
+                            "mcb:000000"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

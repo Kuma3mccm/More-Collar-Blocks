@@ -1,0 +1,11 @@
+{
+    "resource_pack_name": "mcb",
+    "texture_name": "atlas.terrain",
+    "padding": 8,
+    "num_mip_levels": 4,
+    "texture_data": {
+        "000000": {
+            "textures": "textures/blocks/000000"
+        }
+    }
+}

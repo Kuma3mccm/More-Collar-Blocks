@@ -1,0 +1,25 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "More Collar Blocks",
+    "description": "MinecraftBEで使用できる単色のブロックを追加します。",
+    "version": [1, 0, 0],
+    "uuid": "f5105bb4-62c2-4811-a0e9-f13cf21ee6a4",
+    "min_engine_version": [1, 13, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "description": "MinecraftBEで使用できる単色のブロックを追加します。",
+      "version": [1, 0, 0],
+      "uuid": "a47c5a1f-17c9-4c24-8d60-ae1f43899330"
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "Kuma3mccm"
+    ],
+    "url": "https://github.com/Kuma3mccm/More-Collar-Blocks",
+    "license": "MIT"
+  }
+}
