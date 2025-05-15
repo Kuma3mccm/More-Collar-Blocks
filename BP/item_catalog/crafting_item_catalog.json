@@ -8,7 +8,7 @@
                     {
                         "group_identifier": {
                             "icon": "mcb:hex_000000",
-                            "name": "mcb:itemGroup.name"
+                            "name": "itemGroup.morecollarblocks.default"
                         },
                         "items": [
                             "mcb:hex_000000",
