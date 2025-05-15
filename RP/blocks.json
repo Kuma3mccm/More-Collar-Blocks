@@ -1,10 +1,10 @@
 {
   "format_version": [1, 19, 80],
-  "mcb:#000000": {
+  "mcb:hex_000000": {
     "sound": "stone",
     "textures": "000000"
   },
-  "mcb:#000001": {
+  "mcb:hex_000001": {
     "sound": "stone",
     "textures": "000001"
   }

@@ -2,7 +2,7 @@
   "format_version": "1.20.50",
   "minecraft:block": {
     "description": {
-      "identifier": "mcb:#000001",
+      "identifier": "mcb:hex_000001",
       "menu_category": {
         "category": "construction"
       }
